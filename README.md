@@ -4,6 +4,11 @@ Repository containing materials for Global Wheat Detection competition on Kaggle
 
 Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/globalwheatdetection-eda)
 
+## Demo of different models
+### SSD demo
+![image](https://raw.githubusercontent.com/Lexie88rus/GlobalWheatDetection/master/ssd-example.png)
+[SSD model notebook](https://github.com/Lexie88rus/GlobalWheatDetection/blob/master/OpenWheatDetection-SSD.ipynb)
+
 ## Useful Papers and Links
 Some interesting related papers and articles:
 1. [Deep learning based banana plant detection and counting using high-resolution red-green-blue (RGB) images collected from unmanned aerial vehicle (UAV)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223906). The objective of this research is focused to automate the count of banana plants during early stage of growth, in which they are prone to lose maturity.
