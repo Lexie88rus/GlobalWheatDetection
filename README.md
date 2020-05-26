@@ -16,3 +16,5 @@ Some interesting related papers and articles:
 3. [Review of deep learning algorithms for object detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
 4. [Fast Detection Models](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)
 5. [SSD Tutorial](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection), [SSD implementation in pytorch](https://github.com/qfgaohao/pytorch-ssd)
+6. [EfficientDet](https://arxiv.org/pdf/1911.09070.pdf)
+7. [CutMix paper](https://arxiv.org/pdf/1905.04899.pdf)
