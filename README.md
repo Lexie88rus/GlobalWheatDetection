@@ -6,7 +6,7 @@ Link to [EDA on Kaggle](https://www.kaggle.com/aleksandradeis/globalwheatdetecti
 
 ## Demo of different models
 ### SSD demo
-![image](https://raw.githubusercontent.com/Lexie88rus/GlobalWheatDetection/master/ssd-example.png)
+![image](https://github.com/Lexie88rus/GlobalWheatDetection/raw/master/ssd_demo.png)
 [SSD model notebook](https://github.com/Lexie88rus/GlobalWheatDetection/blob/master/OpenWheatDetection-SSD.ipynb)
 
 ## Useful Papers and Links
